@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6067
     wikipedia: http://en.wikipedia.org/wiki/Sutton_E._Griggs
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38830#UnfetteredA-Novel
 gutenberg_issued: '2012-02-11'
 gutenberg_type: Text
 identifiers:
